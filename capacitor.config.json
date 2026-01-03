@@ -1,0 +1,9 @@
+{
+  "appId": "app.lovable.7718a1344b5a442588b94070db0612ca",
+  "appName": "Sehat HMS",
+  "webDir": "dist",
+  "server": {
+    "url": "https://7718a134-4b5a-4425-88b9-4070db0612ca.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  }
+}
